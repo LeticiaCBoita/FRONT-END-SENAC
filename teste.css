@@ -1,0 +1,41 @@
+img{
+    display: block;
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    height: 100vh;
+    color: black;
+    background-color: rgb(235, 232, 232);
+    
+
+}
+P{
+    font-size: large;
+    color: blueviolet;
+}
+div {
+    position:static;
+    width: 1000px;
+    border: 10px solid pink;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+    
+  
+    
+  }
+  h1{
+    font-size:60px;
+    color: rgb(252, 16, 161);
+    display: block;
+    text-align: center;
+    
+}
+  h2{
+    color: rgb(79, 158, 226);
+    font-size: larger;
+  }
+
