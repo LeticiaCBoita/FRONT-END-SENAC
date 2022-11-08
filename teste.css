@@ -14,9 +14,13 @@ body{
 
 }
 P{
-    font-size: large;
-    color: blueviolet;
-    position:center;
+    font-size: 25px;
+    color: rgb(249, 249, 249);
+    border: 1px solid black;
+    padding: auto;
+    background-color: rgb(0, 0, 0);
+   text-align: center;
+  
 }
 div {
     position:static;
